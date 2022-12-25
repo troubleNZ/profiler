@@ -4,6 +4,7 @@
   "language": "en-US",
   "repository": [
     "trbl-elevators",
-    "trbl-LicensePed"
+    "trbl-LicensePed",
+    "trbl-props",
   ]
 }
