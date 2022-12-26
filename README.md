@@ -26,7 +26,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/12/23 1:18 AM UTC
+			2022/12/24 1:14 AM UTC
 		</td>
 		<td>
 			12
@@ -42,7 +42,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/12/23 12:00 AM UTC
+			2022/12/24 1:14 AM UTC
 		</td>
 		<td>
 			168
@@ -51,9 +51,25 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/troubleNZ/profiler/raw/master/graph/499398330/small/year.png" height="20"> 253
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/troubleNZ/profiler/tree/master/readme/582140569/year.md">
+				trbl-props
+			</a>
+		</td>
+		<td>
+			2022/12/23 12:30 PM UTC
+		</td>
+		<td>
+			5
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/troubleNZ/profiler/raw/master/graph/582140569/small/year.png" height="20"> 8
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2022/12/25 6:19 PM UTC</i></small>
+<small><i>Last updated on 2022/12/26 12:30 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
