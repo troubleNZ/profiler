@@ -5,6 +5,9 @@
   "repository": [
     "trbl-elevators",
     "trbl-LicensePed",
-    "trbl-props"
+    "trbl-props",
+    "dpscenes-setup-for-radialmenu",
+    "trbl-hackerman",
+    "fivem-subtitles"
   ]
 }
