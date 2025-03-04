@@ -115,9 +115,25 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/troubleNZ/profiler/raw/master/graph/464628325/small/year.png" height="20"> 120
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/troubleNZ/profiler/tree/master/readme/942314260/year.md">
+				SC-VRse
+			</a>
+		</td>
+		<td>
+			2025/3/1 5:05 AM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/troubleNZ/profiler/raw/master/graph/942314260/small/year.png" height="20"> 5
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2025/3/4 1:38 AM UTC</i></small>
+<small><i>Last updated on 2025/3/4 5:06 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
