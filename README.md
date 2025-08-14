@@ -53,6 +53,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/troubleNZ/profiler/tree/master/readme/582140569/year.md">
+				trbl-props
+			</a>
+		</td>
+		<td>
+			2025/8/12 1:51 AM UTC
+		</td>
+		<td>
+			73
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/troubleNZ/profiler/raw/master/graph/582140569/small/year.png" height="20"> 156
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/troubleNZ/profiler/tree/master/readme/505268293/year.md">
 				dpscenes-setup-for-radialmenu
 			</a>
@@ -81,6 +97,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/troubleNZ/profiler/raw/master/graph/538797026/small/year.png" height="20"> 19
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/troubleNZ/profiler/tree/master/readme/464628325/year.md">
+				fivem-subtitles
+			</a>
+		</td>
+		<td>
+			2025/8/12 1:52 AM UTC
+		</td>
+		<td>
+			42
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/troubleNZ/profiler/raw/master/graph/464628325/small/year.png" height="20"> 130
 		</td>
 	</tr>
 	<tr>
@@ -117,7 +149,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/8/14 6:36 AM UTC</i></small>
+<small><i>Last updated on 2025/8/14 12:50 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
